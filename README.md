@@ -19,7 +19,7 @@ Accessible Museum Guide is a prototype application designed to assist visually i
 ### 1️⃣ Installation  
 Clone the repository and install dependencies:  
 ```bash  
-git clone https://github.com/yourusername/accessible-museum-guide.git  
+git clone https://github.com/Andrea-1704/lookAfter_Museum_guide.git  
 cd accessible-museum-guide  
 npm install  
 ```
